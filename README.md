@@ -6,6 +6,7 @@ Kaggle Bank Marketing Dataset -
 https://www.kaggle.com/datasets/tunguz/bank-marketing-data-set
 
 Google Colab Workbook -
+https://colab.research.google.com/drive/1VtrHgrYTBvCL1nLhQM7pHEiEdEJ-AWVq?usp=sharing
  
 Medium Article Link -
 
