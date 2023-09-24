@@ -9,6 +9,7 @@ Google Colab Workbook -
 https://colab.research.google.com/drive/1VtrHgrYTBvCL1nLhQM7pHEiEdEJ-AWVq?usp=sharing
  
 Medium Article Link -
+https://medium.com/@utkarshsatishkumar.shah/bank-marketing-predictive-analysis-a-deep-dive-using-crisp-dm-3d29657b2310
 
 ## Task 2 - SEMMA Methodology
 
