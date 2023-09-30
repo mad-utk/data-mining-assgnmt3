@@ -25,7 +25,7 @@ Medium Article Link -
 Kaggle Amazon Popular Books Dataset -
 https://www.kaggle.com/datasets/joebeachcapital/amazon-books 
 
-Google Colab Workbook -
+Google Colab Workbook - https://colab.research.google.com/drive/10qkG7o3U-y4o9BVL1HK_R_SO9MCh2hVI?usp=sharing
  
 Medium Article Link -
 
