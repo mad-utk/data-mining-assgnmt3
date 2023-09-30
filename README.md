@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/jogwums/air-crashes-full-data-1908-2023
 Google Colab Workbook - 
 https://colab.research.google.com/drive/1wIFKqdjzf1PPBGMaMCt_fdbH-PITVO_i?usp=sharing
  
-Medium Article Link - https://colab.research.google.com/drive/1wIFKqdjzf1PPBGMaMCt_fdbH-PITVO_i?usp=sharing
+Medium Article Link - https://medium.com/@utkarshsatishkumar.shah/exploratory-data-analysis-using-the-semma-methodology-a-dive-into-the-air-crash-dataset-3402c3cf893e
 
 ## Task 3 - KDD Methodology 
 
